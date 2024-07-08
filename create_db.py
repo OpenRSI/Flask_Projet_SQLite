@@ -1,5 +1,6 @@
 import sqlite3
 
+//ceci est un test
 connection = sqlite3.connect('database.db')
 
 with open('schema.sql') as f:
